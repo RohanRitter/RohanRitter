@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a Personal Project called: Resturaunt Rating
+- 🔭 I’m currently working as a Freelancer and Web Developer.
 - 🌱 I’m currently learning Full Stack Web Development:
       HTML5, CSS, Bootstrap, JavaScript
       
