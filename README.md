@@ -1,11 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working as a Freelancer and Web Developer.
+- 🔭 I’m currently working as a Freelancer and Front End Web Developer.
 - 🌱 I’m currently learning Full Stack Web Development:
       HTML5, CSS, Bootstrap, JavaScript
-      
-
+      My Site is still in progress, you can view it via this link: https://rohanritter.github.io/RRWebsite/
 - 📫 How to reach me: 
-Email: rohanritter@gmail.com
+- Email: rohanritter@gmail.com
 <!--
 **RohanRitter/RohanRitter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
