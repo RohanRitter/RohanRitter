@@ -2,7 +2,7 @@
 - 🔭 I’m currently working as a Freelancer and Front End Web Developer.
 - 🌱 I’m currently learning Full Stack Web Development:
       HTML5, CSS, Bootstrap, JavaScript
-      My Site is still in progress, you can view it via this link: https://rohanritter.github.io/RRWebsite/
+      My Site is still in progress, you can view it via this link: https://rohanritter.github.io/Rohan_Riiter_Website/
 - 📫 How to reach me: 
 - Email: rohanritter@gmail.com
 <!--
