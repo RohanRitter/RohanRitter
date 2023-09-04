@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working as a Freelancer and Front End Web Developer.
+- 🔭 I’m currently working as a Junior Web Developer at Coreline Engineering Solutions.
 - 🌱 I’m currently learning Full Stack Web Development:
       HTML5, CSS, Bootstrap, JavaScript
       My Site is still in progress, you can view it via this link: https://rohanritter.github.io/Rohan_Riiter_Website/
