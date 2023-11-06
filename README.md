@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working as a Junior Web Developer at Coreline Engineering Solutions.
 - 🌱 I’m currently learning Full Stack Web Development:
-      HTML5, CSS, Bootstrap, JavaScript, jQuery
+      HTML5, CSS, Bootstrap, JavaScript, jQuery, Node.js
       Python, SQL, PostgreSQL
       My Site is still in progress, you can view it via this link: https://rohanritter.github.io/Rohan_Riiter_Website/
 - 📫 How to reach me: 
