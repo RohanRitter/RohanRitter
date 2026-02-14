@@ -1,11 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently studying at Stadio.
-- 🌱 I’m currently learning Full Stack Web Development:
-      HTML5, CSS, Bootstrap, JavaScript, jQuery, Node.js
-      Python, SQL, PostgreSQL
-      My Site is still in progress, you can view it via this link: https://rohanritter.github.io/Rohan_Riiter_Website/
-- 📫 How to reach me: 
-- Email: rohanritter@gmail.com
+- 🔭 I’m currently studying at Stadio (Batchelors of Web development and Design)
+- 🌱 I’m currently learning Full Stack Web Development: HTML5, CSS, Bootstrap, JavaScript, jQuery, Node.js, Python, SQL, PostgreSQL
+- ⚡ Known Languages: HTML5, CSS, Bootstrap, JavaScript, JavaScript Animations, jQuery, SQL, Java, C#.
+- ✨ Other skills: Canva, Photoshop, Premier Pro, InDesign, Adobe Animate, Illustration, Photography, Videography
+      My Site is still in progress, but here is my old site for you to view: https://rohanritter.github.io/Rohan_Riiter_Website/
+- 📫 How to reach me: Email: rohanritter@gmail.com, LinkedIn: Rohan Ritter
 <!--
 **RohanRitter/RohanRitter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
