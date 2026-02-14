@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working as a Junior Web Developer at Coreline Engineering Solutions.
+- 🔭 I’m currently studying at Stadio.
 - 🌱 I’m currently learning Full Stack Web Development:
       HTML5, CSS, Bootstrap, JavaScript, jQuery, Node.js
       Python, SQL, PostgreSQL
