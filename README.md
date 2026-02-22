@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE"/>
+  <img src="https://raw.githubusercontent.com/RohanRitter/RohanRitter/main/Navbar.png"/>
 </p>
 
 <h1 align="center">⚓ Rohan Ritter</h1>
